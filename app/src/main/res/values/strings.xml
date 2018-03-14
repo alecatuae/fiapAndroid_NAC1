@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RM79125</string>
+    <string name="pisoBranco">Piso Branco Baixo Brilho</string>
+    <string name="pisoAlbania">Piso Albania 45x45</string>
+    <string name="porcelanato">Porcelanato Perlato Branco</string>
+    <string name="revestimento">Revestimento mosaico</string>
+    <string name="informeM2">Informe a media em m2</string>
+    <string name="ultraFrete">Ultra frete mega rapido</string>
+    <string name="informeMaterial">Informe o Material que deseja</string>
+    <string name="calcular">Calcular</string>
+</resources>
